@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JEProject", "JEProject\JEProject.csproj", "{A514C14D-8481-438A-BBF5-9BE21D54E9DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A514C14D-8481-438A-BBF5-9BE21D54E9DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A514C14D-8481-438A-BBF5-9BE21D54E9DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A514C14D-8481-438A-BBF5-9BE21D54E9DB}.Debug|x64.ActiveCfg = Debug|x64
+		{A514C14D-8481-438A-BBF5-9BE21D54E9DB}.Debug|x64.Build.0 = Debug|x64
+		{A514C14D-8481-438A-BBF5-9BE21D54E9DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A514C14D-8481-438A-BBF5-9BE21D54E9DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A514C14D-8481-438A-BBF5-9BE21D54E9DB}.Release|x64.ActiveCfg = Release|x64
+		{A514C14D-8481-438A-BBF5-9BE21D54E9DB}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61E94B33-A7AD-4DE6-A230-7692F096E614}
+	EndGlobalSection
+EndGlobal
