@@ -1,0 +1,4 @@
+1)Create Table DDS_LOG in every Database
+
+                        
+

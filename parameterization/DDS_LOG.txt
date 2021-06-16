@@ -1,0 +1,5 @@
+CREATE TABLE [dbo].[DDS_LOG](
+	[Id] [nvarchar](100) NULL,
+	[Exception] [nvarchar](max) NULL,
+	[Addon] [nvarchar](100) NULL
+)
